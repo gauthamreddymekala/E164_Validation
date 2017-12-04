@@ -1,0 +1,6 @@
+C:\Users\Acer\OneDrive\Venu\E164_Validation\E164_Validation\bin\Debug\E164_Validation.exe.config
+C:\Users\Acer\OneDrive\Venu\E164_Validation\E164_Validation\bin\Debug\E164_Validation.exe
+C:\Users\Acer\OneDrive\Venu\E164_Validation\E164_Validation\bin\Debug\E164_Validation.pdb
+C:\Users\Acer\OneDrive\Venu\E164_Validation\E164_Validation\obj\Debug\E164_Validation.csprojResolveAssemblyReference.cache
+C:\Users\Acer\OneDrive\Venu\E164_Validation\E164_Validation\obj\Debug\E164_Validation.exe
+C:\Users\Acer\OneDrive\Venu\E164_Validation\E164_Validation\obj\Debug\E164_Validation.pdb
